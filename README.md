@@ -9,7 +9,7 @@
     3. HIT ENTER
     
 #    Open the GUI
-    #INSERT THE LINK
-    #PRESS DOWNLOAD BUTTON
+    INSERT THE LINK
+    PRESS DOWNLOAD BUTTON
 # ALL DONE !!
     
